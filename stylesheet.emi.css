@@ -1,0 +1,45 @@
+.header h1 {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: dimgrey;}
+
+
+
+
+
+.header-logo h2 {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: dimgrey;}
+
+    .spot{
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        background-color:rgba(195, 191, 191, 0.721);
+        }
+
+        figure{text-align:center;}
+figcaption{color:black;}
+.spot li {
+    display: inline;
+    
+}    
+
+.HOTELs h3{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color:gray;
+    
+}
+
+.header-list{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: rgb(143, 143, 143);
+}
+
+.footer{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: rgb(175, 172, 172);
+}
+
+.footer-list{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: rgb(240, 235, 235);
+}
+
